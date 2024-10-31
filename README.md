@@ -32,8 +32,4 @@ This project involves scraping GitHub data for users in Austin with over 100 fol
 - **Language Preference**: Fennel has a high average star count, indicating niche popularity.
 - **Leader Strength Calculation**: Top Austin users demonstrate strong follower networks relative to those they follow.
 
-### Running the Project
-1. Clone this repository and install required dependencies.
-2. Use the GitHub API to fetch and analyze additional data as needed.
-3. Modify and extend analysis by adjusting parameters in the code for further insights.
 
